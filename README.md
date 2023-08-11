@@ -1,2 +1,3 @@
 # Crypto-Currency-Price-Predictor
-Created a CV Builder application that provides a template regarding what information to include in a CV (Ex: Picture, Bio-data, Skills, Qualification, Work Experience). 
+This project predicts the closing price of a given cryptocurrency for the day by using historical
+data and a sentimental analysis on current global scenario.
